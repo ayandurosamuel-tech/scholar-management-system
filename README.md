@@ -1,5 +1,15 @@
 # Scholar Management System
 
+## Live Demo
+
+Scholar Dashboard
+
+https://samuelayanduro.com/scholar-dashboard/
+
+Scholar Verification Portal
+
+https://samuelayanduro.com/scholar-verification/
+
 A comprehensive Digital Scholar Management System designed for training institutions, scholarship programmes, workforce development initiatives, NGOs, academies and educational organizations.
 
 ## Overview
