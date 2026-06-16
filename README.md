@@ -32,6 +32,18 @@ The system provides a secure and scalable solution for managing scholars through
 
 ![Achievement Tracking](Achievement%20status.png)
 
+## Platform Highlights
+
+- Real-Time Scholar Authentication
+- Dynamic Verification Engine
+- Passport Photo Validation
+- Learning Resource Management
+- Attendance Tracking Framework
+- Assessment Monitoring Framework
+- Mobile Responsive Interface
+- Google Apps Script API Integration
+- WordPress Integration
+
 ## Key Features
 
 ### Scholar Authentication
