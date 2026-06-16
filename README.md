@@ -8,6 +8,20 @@ This platform was developed to automate scholar onboarding, verification, authen
 
 The system provides a secure and scalable solution for managing scholars throughout the learning lifecycle.
 
+## Screenshots
+
+### Scholar Login Portal
+
+![Scholar Login](scholar-login.png)
+
+### Scholar Dashboard
+
+![Scholar Dashboard](scholar-dashboard.png)
+
+### Achievement Tracking
+
+![Achievement Tracking](Achievement%20status.png)
+
 ## Key Features
 
 ### Scholar Authentication
